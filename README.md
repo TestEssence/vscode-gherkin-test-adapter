@@ -1,0 +1,1 @@
+# vscode-gherkin-test-adapter
